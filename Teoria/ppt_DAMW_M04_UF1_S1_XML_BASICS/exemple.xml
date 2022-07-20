@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+    <spring>
+        <title>Garden Sales</title>
+        <line>Outdoor Tools</line>
+        <page>
+            <caption>Goodbye, Winter!</caption>
+            <item>Potting Soil</item>
+        </page>
+    </spring>
+</catalog>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE edit_message SYSTEM "edit_message.dtd">
+
+<edit_message>
+    <message>
+        <remitente>
+            <name>Nom del remitent</name>
+            <mail>Correu del remitent</mail>
+        </remitente>
+        <destinatari>
+            <name>Nom del destinatari</name>
+            <mail>Correu del destinatari</mail>    
+        </destinatari>
+        <text>
+            <assumpte>Petit text explicant al destinatari 
+            el motiu del correu</assumpte>
+            <paragraf>Text on s'explica el motiu del correu i d'altres 
+            assumptes que el remitent vulgui explicar al 
+            destinatari</paragraf>
+        </text>
+    </message>
+</edit_message>

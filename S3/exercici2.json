@@ -1,0 +1,42 @@
+{
+    "person":
+    {
+        "name":"Roger",
+        "surname": "Sobrino",
+        "age":"19",
+        "height": "1.78",
+        "job":"Professor interí",
+        "address":
+        {
+            "street":"diputació",
+            "number":"18",
+            "cp":"08012"
+        }
+
+    },
+    "social media":
+    {
+        "instagram":
+        {
+            "user":"p34dr",
+            "email":"rinfo@gmail.clom"
+        },
+        "twitter":"si"
+    },
+    "friends":
+    {
+        "friend":
+        {
+            "name":"Pedro",
+            "surname":"Sotomonte",
+            "age":"35"
+        },
+        "friend":
+        {
+            "name":"Julia",
+            "surname":"Sotomonte",
+            "age":"38"
+        }
+
+    }
+}
